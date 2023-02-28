@@ -1,0 +1,1 @@
+".asm" nin çalışabilmesi için ".inc" uzantılı 3 dosyanın ".asm" ile aynı klasörde yer alması gerekmektedir.
